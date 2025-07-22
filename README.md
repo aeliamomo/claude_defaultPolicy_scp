@@ -62,7 +62,7 @@ The following commonly-available libraries:
 
 ### Step 1: pip install numpy
 ### Step 2: pip install scikit-learn
-### Step 3: By default, you should upload the following files to our server.  Open terminal and type, assuming the password is conference112: 
+### Step 3: By default, you have to upload the following files to our server.  Open the terminal and type, assuming the password is conference112: 
 ``` bash
 scp Downloads/report.txt testuser@35.197.38.228:/home/testuser/
 ```
